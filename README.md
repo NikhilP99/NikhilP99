@@ -10,5 +10,5 @@
 Thanks for dropping by! Here are some facts about me:
 - I speak JavaScript🗣️.
 - I ❤️ working on MERN stack and RESTful APIs (nothing againt GraphQL though😅).
-- I'm always exploring new tech💡 and dev tools🔨. Currently intrigued by DevOps⭐.
+- I'm always exploring new tech💡 and dev tools🔨. Currently intrigued by Image Processing⭐.
 - **Fun Fact** - I am a Mechanical Engineer👨🏻‍🔧 .
